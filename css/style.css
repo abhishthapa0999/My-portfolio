@@ -213,11 +213,11 @@ background-size:cover;
         margin-top:0;
     }
   }
-  @media(max-width:574px)
+  @media(max-width:575px)
   {
      
   
-   #footermy, #footone,#foottwo{
+   #footone,#foottwo{
         text-align:center;
     }
 
